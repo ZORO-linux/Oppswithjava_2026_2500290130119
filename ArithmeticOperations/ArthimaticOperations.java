@@ -1,3 +1,4 @@
+package ArithmeticOperations;
 public class ArthimaticOperations {
     public static void main(String[] args) {
         int a = 10;
